@@ -33,7 +33,7 @@ namespace ConsoleApp1
             _radius = radius;
         }
 
-        public override void PrintCircle()
+        public override void PrintGeometricObject()
         {
             //TODO печать текущего объекта окружности
         }

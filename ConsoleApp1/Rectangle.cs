@@ -48,7 +48,7 @@ namespace ConsoleApp1
                 throw new ArgumentException("некорректное значение ширины");
         }
 
-        public override void PrintCircle()
+        public override void PrintGeometricObject()
         {
             //TODO реализовать печать текущего объекта прямоугольника
         }

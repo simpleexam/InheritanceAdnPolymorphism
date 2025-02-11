@@ -35,7 +35,7 @@ namespace ConsoleApp1
             return $"";
         }
 
-        public abstract void PrintCircle();
+        public abstract void PrintGeometricObject();
 
     }
 }
